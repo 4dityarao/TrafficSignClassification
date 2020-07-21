@@ -1,0 +1,45 @@
+ClassId,Name
+0,Give Way
+1,No Entry
+2,Prohibited in one direction
+3,No Entry on Both Directions
+4,All Vehicles Prohibited
+5,Truck Prohibited
+6,Cycle Prohibited
+7,Horn Prohibited
+8,Bullock Cart and Hand Cart Prohibited
+9,Bullock Cart Prohibited
+10,Tonga Prohibited
+11,Hand Cart Prohibited
+12,Pedestrian Prohibited
+13,Right Turn Prohibited
+14,Left Turn Prohibited
+15,U-Turn Prohibited
+16,Overtaking Prohibited
+17,No Parking
+18,No Stopping
+19,Speed Limit 50 KMPH
+20,Compulsory Cycle Track
+21,Compulsory Sound Horn
+22,Compulsory Keep Left
+23,Compulsory Turn Left
+24,Compulsory Turn Right Ahead
+25,Compulsory Ahead or Turn Right
+26,Compulsory Ahead or Turn Left
+27,Compulsory Ahead
+28,Stop
+29,Right Hand Curve
+30,Right Hair Pin Bend
+31,Left Hand Curve
+32,Left Hair Pin Bend
+33,Right Reverse Bend
+34,Left Reverse Bend
+35,Narrow Road Ahead
+36,Road Wideness Ahead
+37,Narrow Bridge Ahead
+38,Slippery Road
+39,Pedestrian Crossing
+40,School Ahead
+41,Men At Work
+42,Roundabout
+43,.
